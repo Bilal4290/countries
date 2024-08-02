@@ -21,7 +21,7 @@ const darkFun = () => {
                    
                <div className=' w-full flex justify-between items-center py-8 '>
                        <div>
-                             <Link to={'/'} className='font-bold text-xl sm:text-2xl md:text-3xl lg:text-4xl'>Where in the world?</Link>
+                             <Link to={'/'} className='font-bold text-xl sm:text-2xl md:text-3xl lg:text-4xl'>The Countries?</Link>
                        </div>
 
                        <button onClick={darkFun} className='flex gap-2 items-center justify-center text-sm sm:text-base md:text-lg lg:text-xl'>
