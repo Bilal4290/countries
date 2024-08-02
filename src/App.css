@@ -1,0 +1,12 @@
+header.dark, main.dark{
+    --background-color: white;
+    --text-color : black;
+    background-color: var(--background-color);
+    color: var(--text-color);
+}
+
+header.dark, main.dark{
+    background-color: hsl(207, 26%, 17%);
+    color: white;
+}
+
